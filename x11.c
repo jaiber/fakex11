@@ -1,3 +1,4 @@
+// GPL v2
 #include <stdio.h>
 
 typedef struct _Display {
